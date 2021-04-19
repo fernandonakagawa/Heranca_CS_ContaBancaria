@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigital_Heranca", "BancoDigital_Heranca\BancoDigital_Heranca.csproj", "{45911B56-2956-43FF-AA4A-FF9F903EC656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45911B56-2956-43FF-AA4A-FF9F903EC656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45911B56-2956-43FF-AA4A-FF9F903EC656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45911B56-2956-43FF-AA4A-FF9F903EC656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45911B56-2956-43FF-AA4A-FF9F903EC656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD66CAC-05BD-4843-81D5-5F7A7ED97E09}
+	EndGlobalSection
+EndGlobal
